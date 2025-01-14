@@ -32,7 +32,7 @@ Uma API REST simples para gerenciar tasks, desenvolvida com **JSON Server** e te
 [
   {
     "id": 1,
-    "title": "Work,
+    "title": "Work",
     "description": "Programar",
     "completed_at": "null"
     "created_at": "null"
